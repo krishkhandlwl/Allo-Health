@@ -19,6 +19,6 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Deployement-  https://allohealth.vercel.app/
+Deployment-  https://allohealth.vercel.app/
 
 
